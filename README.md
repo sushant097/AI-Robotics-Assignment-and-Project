@@ -1,7 +1,6 @@
 # AI-Robotics-Assignment-and-Project
-My coursework AI Robotics assignment and project.
 
-elcome to the repository for the AI Robotics course. This repository contains all the lab assignments and the final project required for the course completion. Each lab and project is documented with details on objectives, methodologies, results, and reflections.
+Welcome to the repository for the AI Robotics course. This repository contains all the lab assignments and the final project required for the course completion. Each lab and project is documented with details on objectives, methodologies, results, and reflections.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -26,7 +25,7 @@ Each lab assignment is documented in its own directory with a README. Below is a
 ### Lab 1: Title
 - **Objective**: Describe what the lab aims to teach or what project it involves.
 - **Methodology**: Brief outline of the tasks or experiments conducted.
-- **[More Details](link-to-lab-folder)**
+- **[More Details](Lab1/lab1.md)**
 
 ### Lab 2: Title
 - **Objective**: ...

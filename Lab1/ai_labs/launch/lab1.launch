@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="turtlesim" pkg="turtlesim" type="turtlesim_node" output="screen" />
+    <node name="square" pkg="ai_labs" type="square.py" output="screen" />
+    <!-- Uncomment the following line for the extra credit portion of this lab-->
+    <node name="subscribe_pose" pkg="ai_labs" type="subscribe_pose.py" output="screen"/>
+</launch>
