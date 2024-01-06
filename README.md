@@ -23,14 +23,14 @@ Briefly describe the AI Robotics course, its objectives, and what knowledge or s
 Each lab assignment is documented in its own directory with a README. Below is a brief overview of each lab.
 
 ### Lab 1: Title
-- **Objective**: Describe what the lab aims to teach or what project it involves.
-- **Methodology**: Brief outline of the tasks or experiments conducted.
+- **Objective**: The purpose of this lab is to get the ROS system installed and working. 
+- **Methodology**: Use ROS basic methods, subscriber to do it. 
 - **[More Details](Lab1/lab1.md)**
 
 ### Lab 2: Title
-- **Objective**: ...
-- **Methodology**: ...
-- **[More Details](link-to-lab-folder)**
+- **Objective**: Understand and process 3D cloud with ROS.
+- **Methodology**: Use ROS method to process 3D point cloud, object detection use different filtering algorithm.
+- **[More Details](Lab2/lab2.md)**
 
 ### Lab 3: Title
 - **Objective**: ...
