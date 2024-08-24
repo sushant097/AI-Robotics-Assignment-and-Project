@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<launch>
+    <node type="rviz" name="rviz" pkg="rviz" args="-d $(find ai_labs)/rviz/lab2.rviz" />
+	<node name="obstacle_detection" pkg="ai_labs" type="obstacle_detection.py" output="screen" />
+    <node name="play" pkg="rosbag" type="play" args="-r 0.1 $(find ai_labs)/data/kitti_2011_09_26_drive_0005_synced.bag"/>
+    <!--node name="play" pkg="rosbag" type="play" args="-r 0.1 $(find ai_labs)/data/kitti_2011_09_26_drive_0002_synced.bag"/-->
+</launch>
